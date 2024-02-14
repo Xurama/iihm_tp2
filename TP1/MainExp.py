@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import QApplication, QMainWindow
 
-from experience.ExpSetup import ExpSetup
+from ExpSetup import ExpSetup
 
 def main():
     app = QApplication([])
